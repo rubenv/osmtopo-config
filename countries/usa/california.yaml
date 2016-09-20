@@ -1,0 +1,117 @@
+children:
+  - name: Alameda
+    id: 396499
+  - name: Alpine
+    id: 396497
+  - name: Amador
+    id: 396490
+  - name: Butte
+    id: 396508
+  - name: Calaveras
+    id: 396470
+  - name: Colusa
+    id: 396476
+  - name: Contra Costa
+    id: 396462
+  - name: Del Norte
+    id: 396503
+  - name: El Dorado
+    id: 396481
+  - name: Fresno
+    id: 396492
+  - name: Glenn
+    id: 396493
+  - name: Humboldt
+    id: 396458
+  - name: Imperial
+    id: 396515
+  - name: Inyo
+    id: 396491
+  - name: Kern
+    id: 396494
+  - name: Kings
+    id: 396480
+  - name: Lake
+    id: 396502
+  - name: Lassen
+    id: 396469
+  - name: Los Angeles
+    id: 396479
+  - name: Madera
+    id: 396488
+  - name: Marin
+    id: 396461
+  - name: Mariposa
+    id: 396465
+  - name: Mendocino
+    id: 396489
+  - name: Merced
+    id: 396504
+  - name: Modoc
+    id: 396506
+  - name: Mono
+    id: 396472
+  - name: Monterey
+    id: 396485
+  - name: Napa
+    id: 396463
+  - name: Nevada
+    id: 396464
+  - name: Orange
+    id: 396466
+  - name: Placer
+    id: 396511
+  - name: Plumas
+    id: 396477
+  - name: Riverside
+    id: 396495
+  - name: Sacramento
+    id: 396460
+  - name: San Benito
+    id: 396500
+  - name: San Bernardino
+    id: 396509
+  - name: San Diego
+    id: 396482
+  - name: San Francisco
+    id: 396487
+  - name: San Joaquin
+    id: 396467
+  - name: San Luis Obispo
+    id: 396496
+  - name: San Mateo
+    id: 396498
+  - name: Santa Barbara
+    id: 396510
+  - name: Santa Clara
+    id: 396501
+  - name: Santa Cruz
+    id: 396473
+  - name: Shasta
+    id: 396512
+  - name: Sierra
+    id: 396474
+  - name: Siskiyou
+    id: 396483
+  - name: Solano
+    id: 396513
+  - name: Sonoma
+    id: 396468
+  - name: Stanislaus
+    id: 396514
+  - name: Sutter
+    id: 396478
+  - name: Tehama
+    id: 396486
+  - name: Trinity
+    id: 396484
+  - name: Tulare
+    id: 396459
+  - name: Tuolumne
+    id: 396471
+  - name: Ventura
+    id: 396505
+  - name: Yolo
+    id: 396507
+  - name: Yuba
+    id: 396475

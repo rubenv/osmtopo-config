@@ -1,0 +1,19 @@
+languages:
+  - en
+  - nl
+  - fr
+
+simplify:
+  - 0
+  - 0
+  - 3
+  - 4
+  - 5
+
+layer:
+  name: World
+  children:
+    - name: Europe
+    - name: North America
+      load: continents/north-america.yaml
+

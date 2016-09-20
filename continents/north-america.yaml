@@ -1,0 +1,7 @@
+children:
+  - name: United States of America
+    load: countries/usa.yaml
+  - name: Canada
+    load: countries/canada.yaml
+  - name: Mexico
+    load: countries/mexico.yaml

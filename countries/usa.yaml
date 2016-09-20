@@ -1,0 +1,103 @@
+id: 148838
+children:
+  - name: Alabama
+    id: 161950
+  - name: Alaska
+    id: 1116270
+  - name: Arizona
+    id: 162018
+  - name: Arkansas
+    id: 161646
+  - name: California
+    id: 165475
+    load: countries/usa/california.yaml
+  - name: Colorado
+    id: 161961
+  - name: Connecticut
+    id: 165794
+  - name: Delaware
+    id: 162110
+  - name: Florida
+    id: 162050
+  - name: Georgia
+    id: 161957
+  - name: Hawaii
+    id: 166563
+  - name: Idaho
+    id: 162116
+  - name: Illinois
+    id: 122586
+  - name: Indiana
+    id: 161816
+  - name: Iowa
+    id: 161650
+  - name: Kansas
+    id: 161644
+  - name: Kentucky
+    id: 161655
+  - name: Louisiana
+    id: 224922
+  - name: Maine
+    id: 63512
+  - name: Maryland
+    id: 162112
+  - name: Massachusetts
+    id: 61315
+  - name: Michigan
+    id: 165789
+  - name: Minnesota
+    id: 165471
+  - name: Mississippi
+    id: 161943
+  - name: Missouri
+    id: 161638
+  - name: Montana
+    id: 162115
+  - name: Nebraska
+    id: 161648
+  - name: Nevada
+    id: 165473
+  - name: New Hampshire
+    id: 67213
+  - name: New Jersey
+    id: 224951
+  - name: New Mexico
+    id: 162014
+  - name: New York
+    id: 61320
+  - name: North Carolina
+    id: 224045
+  - name: North Dakota
+    id: 161653
+  - name: Ohio
+    id: 162061
+  - name: Oklahoma
+    id: 161645
+  - name: Oregon
+    id: 165476
+  - name: Pennsylvania
+    id: 162109
+  - name: Rhode Island
+    id: 392915
+  - name: South Carolina
+    id: 224040
+  - name: South Dakota
+    id: 161652
+  - name: Tennessee
+    id: 161838
+  - name: Texas
+    id: 114690
+  - name: Utah
+    id: 161993
+  - name: Vermont
+    id: 60759
+  - name: Virginia
+    id: 224042
+  - name: Washington
+    id: 165479
+  - name: West Virginia
+    id: 162068
+  - name: Wisconsin
+    id: 165466
+  - name: Wyoming
+    id: 161991
